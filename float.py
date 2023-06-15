@@ -1,0 +1,15 @@
+a=2e10
+print(a)
+a=10.
+print(a)
+print(type(a))
+d=float()
+print(d)
+a=2*10.**10
+print(a)
+a=10.
+print(type(a))
+d=float()
+print(d)
+c=10.
+print(c)
